@@ -4,10 +4,12 @@ var socialtags = [{
 }, {
     img: "img/linkedin.svg",
     link: "https://www.linkedin.com/in/hussein-mohamed-s/"
-}, {
-    img: "img/playy.svg",
-    link: "https://play.google.com/store/apps/developer?id=Hussein+Mohamed+Apps"
-}, {
+},
+// {
+//     img: "img/playy.svg",
+//     link: "https://play.google.com/store/apps/developer?id=Hussein+Mohamed+Apps"
+// }, 
+ {
     img: "img/twitter.svg",
     link: "https://twitter.com/_HusseinM"
 }]
